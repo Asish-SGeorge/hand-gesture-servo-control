@@ -40,7 +40,7 @@ cd hand-gesture-servo-control
 
 ### Software
 
-* Python 3.x
+* Python 3.10
 * Arduino IDE
 
 ### Python Libraries
